@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1c9cd7;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    padding: 10px;
+    background-color: #ff0101;
+    color: #5e67a3;
+    text-align: center;
+}
